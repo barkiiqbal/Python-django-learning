@@ -1,4 +1,4 @@
-#!/Users/motivator/test_project/bin/python
+#!/Users/motivator/Python-django-learning/test_project/bin/python
 
 import sys
 import getopt

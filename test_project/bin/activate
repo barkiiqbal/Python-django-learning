@@ -40,7 +40,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/motivator/test_project"
+VIRTUAL_ENV="/Users/motivator/Python-django-learning/test_project"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
